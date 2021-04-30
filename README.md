@@ -6,7 +6,7 @@
 
 |seat not occupied and heater not turned on|seat not occupied and heater turned on|seat occupied and heater not turned on|seat occupied and heater turned on|
 |:--:|:--:|:--:|:--:|
-|![seat not occupied and heater not turned on]()|![seat not occupied and heater turned on]()|![seat occupied and heater not turned on]()|![seat occupied and heater turned on]()|
+|![seat not occupied and heater not turned on](https://github.com/Anusha-J-5/Embedded_C_Project/simulation/off_off.png)|![seat not occupied and heater turned on](https://github.com/Anusha-J-5/Embedded_C_Project/simulation/off_on.png)|![seat occupied and heater not turned on](https://github.com/Anusha-J-5/Embedded_C_Project/simulation/on_off.png)|![seat occupied and heater turned on](https://github.com/Anusha-J-5/Embedded_C_Project/simulation/on_on.png)|
 
 #### CI and Code Quality
 
