@@ -4,7 +4,7 @@
 
 ## In Action
 
-|ON|OFF|
+|seat not occupied and heater not turned on|seat not occupied and heater turned on|seat occupied and heater not turned on|seat occupied and heater turned on|
 |:--:|:--:|
 |![seat not occupied and heater not turned on]()|![seat not occupied and heater turned on]()|![seat occupied and heater not turned on]()|![seat occupied and heater turned on]()|
 
