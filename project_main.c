@@ -1,7 +1,7 @@
-#include "Activity1.h"
-#include "Activity2.h"
-#include "Activity3.h"
-#include "Activity4.h"
+#include "act1.h"
+#include "act2.h"
+#include "act3.h"
+#include "act4.h"
 
 char temp_data;
 int main(void)
