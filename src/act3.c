@@ -1,6 +1,6 @@
-#include "Activity1.h"
-#include "Activity2.h"
-#include "Activity3.h"
+#include "act1.h"
+#include "act2.h"
+#include "act3.h"
 void timer()
 {
     TCCR0A|=(1<<COM0A1)|(1<<WGM01)|(1<<WGM00);//FOR FAST PWM MODE
